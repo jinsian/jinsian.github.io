@@ -1,0 +1,155 @@
+  /*color: red;*/
+  /*width: 500px;*/
+  /*border: 1px solid black;*/
+
+
+h1 {
+  margin: 0;
+  padding: 5px 0;
+  font-size: 36px;
+  color: #00539F;
+  /*text-shadow: 3px 3px 1px black;*/
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #FFFFFF;
+  font-family: 'Montserrat';
+}
+
+h2 {
+  margin: 0;
+  padding: 5px 0;
+  font-size: 24px;
+  color: #00539F;
+  /*text-shadow: 3px 3px 1px black;*/
+  width: 100%;
+  background-color: #EAEAEA;
+  font-family: 'Montserrat';
+  font-weight: bolder;
+}
+
+h3 {
+  margin: 0;
+  padding: 5px 0;
+  font-size: 16px;
+  color: #000000;
+  font-weight: bolder;
+  /*text-shadow: 3px 3px 1px black;*/
+  width: 100%;
+  background-color: #FFFFFF;
+}
+
+h4 {
+  margin: 0;
+  padding: 5px 0px 0px 0px;
+  font-size: 14px;
+  color: #000000;
+  font-weight: bolder;
+  /*text-shadow: 3px 3px 1px black;*/
+  width: 100%;
+  background-color: #FFFFFF;
+}
+
+p {
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+p.center {
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Montserrat';
+}
+
+p.ref {
+  font-size: 11px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+a {
+  color: #505050;
+}
+
+li {
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  /*background-color: #FF9500;*/
+  padding: 100px 20px 20px 20px;
+  /*border: 5px solid black;*/
+}
+
+html {
+  font-size: 10px;
+  font-family: 'Roboto Slab', sans-serif;
+  background-color: #FFFFFF;
+}
+
+img {
+  display: block;
+  /*margin: 0 auto;*/
+}
+
+ul.navg {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 10px 0px 0px;
+    overflow: hidden;
+    /*background-color: #333;*/
+    position: fixed;
+    top: 50px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+li a.navg {
+    float:left;
+    display: block;
+    color: black;
+    /*text-align: center;*/
+    padding: 0px 16px 0px 0px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #707070;
+}
+
+.photo {
+  float: left;
+  width: 30%;
+  padding: 0px 0px 20px
+}
+
+.intro {
+  float: right;
+  width: 60%;
+  font-size: 16px;
+  line-height: 1;
+  padding: 35px 40px 6px 20px
+}
+
+HR {
+  position: fixed;
+  top: 80px;
+  padding: 0px 0px 0px 0px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
